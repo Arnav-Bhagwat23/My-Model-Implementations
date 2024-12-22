@@ -1,6 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# File: customized_shufflenet.py
+
 
 import argparse
 import math
